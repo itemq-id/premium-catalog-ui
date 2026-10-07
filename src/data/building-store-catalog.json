@@ -1,0 +1,282 @@
+{
+  "catalog": {
+    "storeName": "Premium Building Materials Store",
+    "storeDescription": "Toko Bahan Bangunan Terpercaya - Menyediakan Produk Berkualitas Tinggi untuk Kebutuhan Konstruksi",
+    "categories": [
+      {
+        "id": "cement",
+        "name": "Semen & Mortar",
+        "description": "Semen portland, semen putih, mortar, dan produk sejenis"
+      },
+      {
+        "id": "bricks",
+        "name": "Batu Bata & Blok",
+        "description": "Batu bata merah, batu bata ringan, blok pejal, dan hollow block"
+      },
+      {
+        "id": "steel",
+        "name": "Besi & Baja",
+        "description": "Besi beton, besi hollow, baja profil, dan pipa besi"
+      },
+      {
+        "id": "wood",
+        "name": "Kayu & Papan",
+        "description": "Kayu jati, kayu meranti, papan triplek, dan multiplek"
+      },
+      {
+        "id": "paint",
+        "name": "Cat & Coating",
+        "description": "Cat tembok, cat kayu, cat anti karat, dan pernis"
+      },
+      {
+        "id": "tiles",
+        "name": "Ubin & Keramik",
+        "description": "Ubin keramik, granit, marmer, dan lantai porselen"
+      },
+      {
+        "id": "pipes",
+        "name": "Pipa & Fitting",
+        "description": "Pipa PVC, pipa galvanis, fitting, dan aksesoris perpipaan"
+      },
+      {
+        "id": "electrical",
+        "name": "Listrik & Elektronik",
+        "description": "Kabel listrik, saklar, stop kontak, dan instalasi elektronik"
+      },
+      {
+        "id": "doors-windows",
+        "name": "Pintu & Jendela",
+        "description": "Pintu kayu, pintu besi, jendela aluminium, dan aksesoris"
+      },
+      {
+        "id": "hardware",
+        "name": "Peralatan & Hardware",
+        "description": "Paku, sekrup, baut, kunci, engsel, dan berbagai hardware"
+      },
+      {
+        "id": "insulation",
+        "name": "Insulasi & Waterproofing",
+        "description": "Busa polyurethane, sealant, waterproofing, dan insulasi thermal"
+      },
+      {
+        "id": "tools",
+        "name": "Alat & Perlengkapan",
+        "description": "Peralatan tangan, alat pengukur, dan perlengkapan konstruksi"
+      }
+    ],
+    "products": [
+      {
+        "id": "P001",
+        "name": "Semen Portland Premium 50kg",
+        "category": "cement",
+        "price": 65000,
+        "currency": "IDR",
+        "unit": "sak",
+        "stock": 500,
+        "rating": 4.8,
+        "reviews": 245,
+        "description": "Semen portland berkualitas tinggi untuk konstruksi bangunan umum",
+        "specifications": {
+          "weight": "50 kg",
+          "type": "Portland Cement Type I",
+          "compressive_strength": "32.5 MPa",
+          "brand": "Premium Cement"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Semen+Portland+50kg",
+        "warranty": "Jaminan kualitas sesuai SNI",
+        "tags": ["semen", "konstruksi", "bangunan"]
+      },
+      {
+        "id": "P002",
+        "name": "Batu Bata Merah Premium 1000pcs",
+        "category": "bricks",
+        "price": 850000,
+        "currency": "IDR",
+        "unit": "paket",
+        "stock": 100,
+        "rating": 4.7,
+        "reviews": 178,
+        "description": "Batu bata merah berkualitas tinggi dengan pembakaran sempurna",
+        "specifications": {
+          "quantity": "1000 pcs",
+          "size": "24 x 11.5 x 7.5 cm",
+          "weight": "Approx. 3.5 kg/pcs",
+          "compressive_strength": "> 100 kg/cm²"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Batu+Bata+Merah",
+        "warranty": "Standar SNI 0213-2011",
+        "tags": ["batu bata", "merah", "konstruksi"]
+      },
+      {
+        "id": "P003",
+        "name": "Besi Beton Ulir 10mm x 12m",
+        "category": "steel",
+        "price": 185000,
+        "currency": "IDR",
+        "unit": "batang",
+        "stock": 200,
+        "rating": 4.9,
+        "reviews": 312,
+        "description": "Besi beton berkualitas tinggi dengan ulir untuk daya cengkeram maksimal",
+        "specifications": {
+          "diameter": "10 mm",
+          "length": "12 m",
+          "weight": "Approx. 9.4 kg/batang",
+          "grade": "BJTD - Grade 40"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Besi+Beton+10mm",
+        "warranty": "Sertifikat BPMTL",
+        "tags": ["besi", "beton", "struktur"]
+      },
+      {
+        "id": "P004",
+        "name": "Kayu Jati Premium 4x6x4m",
+        "category": "wood",
+        "price": 2800000,
+        "currency": "IDR",
+        "unit": "batang",
+        "stock": 50,
+        "rating": 4.8,
+        "reviews": 89,
+        "description": "Kayu jati pilihan dengan kualitas premium untuk konstruksi berkelas",
+        "specifications": {
+          "dimensions": "4 x 6 x 4 m",
+          "moisture": "12-15%",
+          "grade": "Grade A Premium",
+          "type": "Solid Teak"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Kayu+Jati+Premium",
+        "warranty": "Garansi keaslian kayu",
+        "tags": ["kayu", "jati", "premium"]
+      },
+      {
+        "id": "P005",
+        "name": "Cat Tembok Interior 20kg",
+        "category": "paint",
+        "price": 450000,
+        "currency": "IDR",
+        "unit": "kaleng",
+        "stock": 300,
+        "rating": 4.6,
+        "reviews": 156,
+        "description": "Cat tembok interior dengan hasil halus dan warna tahan lama",
+        "specifications": {
+          "capacity": "20 kg",
+          "type": "Emulsion Paint",
+          "coverage": "12 m²/kg",
+          "drying_time": "2-4 jam"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Cat+Tembok+20kg",
+        "warranty": "Tahan 5 tahun",
+        "tags": ["cat", "interior", "tembok"]
+      },
+      {
+        "id": "P006",
+        "name": "Ubin Keramik 40x40cm Premium",
+        "category": "tiles",
+        "price": 180000,
+        "currency": "IDR",
+        "unit": "kotak",
+        "stock": 200,
+        "rating": 4.7,
+        "reviews": 234,
+        "description": "Ubin keramik premium dengan desain modern dan ketahanan tinggi",
+        "specifications": {
+          "size": "40 x 40 cm",
+          "thickness": "9 mm",
+          "finish": "Glossy/Matte",
+          "pieces_per_box": "6 pcs",
+          "coverage": "9.6 m²/box"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Ubin+Keramik+40x40",
+        "warranty": "10 tahun",
+        "tags": ["ubin", "keramik", "lantai"]
+      },
+      {
+        "id": "P007",
+        "name": "Pipa PVC 3/4 inch x 4m",
+        "category": "pipes",
+        "price": 65000,
+        "currency": "IDR",
+        "unit": "batang",
+        "stock": 400,
+        "rating": 4.5,
+        "reviews": 178,
+        "description": "Pipa PVC berkualitas untuk sistem perpipaan rumah tangga",
+        "specifications": {
+          "diameter": "3/4 inch (20mm)",
+          "length": "4 m",
+          "pressure": "10 bar",
+          "weight": "1.2 kg/batang"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Pipa+PVC+3per4",
+        "warranty": "Tahan 10 tahun",
+        "tags": ["pipa", "pvc", "air"]
+      },
+      {
+        "id": "P008",
+        "name": "Kabel Listrik 2.5mm² Merah 100m",
+        "category": "electrical",
+        "price": 425000,
+        "currency": "IDR",
+        "unit": "rol",
+        "stock": 150,
+        "rating": 4.8,
+        "reviews": 267,
+        "description": "Kabel listrik berstandar SNI dengan isolasi berkualitas tinggi",
+        "specifications": {
+          "cross_section": "2.5 mm²",
+          "length": "100 m",
+          "color": "Merah",
+          "voltage": "450/750V",
+          "certification": "SNI 04-0225-2000"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Kabel+Listrik+2.5mm",
+        "warranty": "Sertifikat SNI",
+        "tags": ["kabel", "listrik", "instalasi"]
+      },
+      {
+        "id": "P009",
+        "name": "Pintu Kayu Solid 80x200cm",
+        "category": "doors-windows",
+        "price": 850000,
+        "currency": "IDR",
+        "unit": "unit",
+        "stock": 60,
+        "rating": 4.6,
+        "reviews": 98,
+        "description": "Pintu kayu solid dengan finishing berkualitas untuk ruangan modern",
+        "specifications": {
+          "dimensions": "80 x 200 cm",
+          "material": "Kayu Solid",
+          "thickness": "4 cm",
+          "finish": "Varnish Premium"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Pintu+Kayu+80x200",
+        "warranty": "5 tahun",
+        "tags": ["pintu", "kayu", "interior"]
+      },
+      {
+        "id": "P010",
+        "name": "Paku 5cm per kg",
+        "category": "hardware",
+        "price": 28000,
+        "currency": "IDR",
+        "unit": "kg",
+        "stock": 500,
+        "rating": 4.4,
+        "reviews": 156,
+        "description": "Paku besi berkualitas dengan ukuran standar konstruksi",
+        "specifications": {
+          "length": "5 cm",
+          "weight": "1 kg per paket",
+          "quantity": "Approx. 250-300 pcs/kg",
+          "material": "Besi galvanis"
+        },
+        "image": "https://via.placeholder.com/400x400?text=Paku+5cm",
+        "warranty": "Standar industri",
+        "tags": ["paku", "besi", "hardware"]
+      }
+    ]
+  }
+}
